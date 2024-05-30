@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdrahmansoltan/Forkify.git"
+    "url": "git+https://github.com/MoazElsayedMohamed/Forkify-app.git"
   },
-  "author": "Abdelrahman Soltan",
+  "author": "Moaz Elsayed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdrahmansoltan/Forkify/issues"
+    "url": "https://github.com/MoazElsayedMohamed/Forkify-app/issues"
   },
-  "homepage": "https://github.com/abdrahmansoltan/Forkify#readme",
+  "homepage": "https://github.com/MoazElsayedMohamed/Forkify#readme",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
     "sass": "^1.26.10"
