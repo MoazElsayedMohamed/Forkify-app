@@ -13,14 +13,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://forkify-app-v4.netlify.app/" >
+  <a href="https://669402d5c9f4c88808474d11--forkify-app-v3.netlify.app/" >
     <img src="./src/img/logo.png" alt="Logo" height="50"  >
   </a>
 
   <h3 align="center">Forkify</h3>
 
   <p align="center">
-    <a href="https://forkify-app-v4.netlify.app/">View Demo</a>
+    <a href="https://669402d5c9f4c88808474d11--forkify-app-v3.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/MoazElsayedMohamed/Forkify-app/issues">Report Bug</a>
   </p>
@@ -105,7 +105,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 ## Getting Started
 
-This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://forkify-abdelrahmansoltan.netlify.app/). or you can find the instructions below
+This project require some prequesites and dependenscies to be installed, you can view it online using this [demo](https://669402d5c9f4c88808474d11--forkify-app-v3.netlify.app/). or you can find the instructions below
 
 > To get a local copy, follow these simple steps :
 
@@ -147,11 +147,11 @@ forkify
 └───src
     ├───img
     │       favicon.png
-    │       forkify-architecture-recipe-loading.png
+    │       forkify-architecture.png
     │       forkify-flowchart.png
     │       icons.svg
     │       logo.png
-    │       preview.png
+    │       forkify.png
     │
     ├───js
     │   │   config.js
